@@ -34,8 +34,7 @@ public:
     }
 };
 
-// factorial numbergit remote add origin https://github.com/sandhiyaarulsankar/Tranning-session.git
-
+// factorial number
 import java.util.Scanner;
 
 public class Factorial {
